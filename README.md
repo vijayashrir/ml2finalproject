@@ -34,4 +34,4 @@ Keras: https://keras.io
 
 # Common errors
 
-[errorno 29] Not a directory: 'Dataset_image/.DS_Store' Go to load_data.py file the find label=label[1:] and make it as comment #label=label[1:]. If you are using Ubuntu you should comment it and if you are using a mac you should not comment it. If you find any more bug report me in rtfbuse@gmail.com# Tensorflow-image-classifier. 
+[errorno 29] Not a directory: 'Dataset_image/.DS_Store' Go to load_data.py file the find label=label[1:] and make it as comment #label=label[1:]. If you are using Ubuntu you should comment it and if you are using a mac you should not comment it. If you find any more bug report me in rtfbuse@gmail.com# Tensorflow-image-classifier.
