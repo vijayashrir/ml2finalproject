@@ -8,7 +8,8 @@ This is a python program made by Rohan Thomas(me), I'm a 14 yrs and my areas of 
 
 # Pre-requistes
 
-TensorFlow: sudo pip install tensorflow Keras - pip install keras
+TensorFlow: sudo pip install tensorflow (linux command)
+Keras - pip install keras (linux command)
 
 # To Run the code
 
