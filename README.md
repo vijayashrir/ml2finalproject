@@ -1,6 +1,6 @@
 # Image Recognition
 
-I've build the whole source code that you build your own Image Classifier as a beginner and also train your images and to make predection.
+I've build a python code that you build your own Image Classifier as a beginner and also train your images and to make predection.
 
 # Info
 
