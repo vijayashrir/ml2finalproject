@@ -17,8 +17,6 @@ Keras:
 $ pip install keras 
 ```
 
-# To Run the code
-
 After you downalod the code unzip the file and create new 2 folders in the repository one is "dataset_image" and predicit.
 
 # Dataset
@@ -27,11 +25,11 @@ open the folder which you have created "Dataset_image" then create a sub-folder 
 
 # Training
 
-Ones you prepared your dataset it is the time to train. Open terminal or command prompt in the folder the run the "file train.py" by (python train.py)
+Ones you prepared your dataset it is the time to train. Open terminal or command prompt in the folder the run the "file train.py" by * `$ pyhton train.py` 
 
 # Prediction
 
-Ones you completed the training then come back to the same the repo and put the image you wanted to predict. If you wanted to predict cat (Take your phone and click an image of a cat then share it to the computer then put the file in predict folder. Open terminal in the folder and type "python predict.py" Magic Happens.
+Ones you completed the training then come back to the same the repo and put the image you wanted to predict. If you wanted to predict cat (Take your phone and click an image of a cat then share it to the computer then put the file in predict folder. Open terminal in the folder and type * `$ python predict.py` 
 
 # Useful Links
 
