@@ -2,10 +2,6 @@
 
 I've build a python code that you build your own Image Classifier as a beginner and also train your images and to make predection.
 
-# Info
-
-This is a python program made by Rohan Thomas(me), I'm a 14 yrs and my areas of Intrest is Machine Learning, AI, Deep-Learning, Neural Networks etc. Here in this program I've used TensorFlow and Keras and the Neural Network used here is Convolutional Neural Networks
-
 # Pre-requistes
 
 TensorFlow: 
@@ -39,4 +35,4 @@ Keras: https://keras.io
 
 # Common errors
 
-[errorno 29] Not a directory: 'Dataset_image/.DS_Store' Go to load_data.py file the find label=label[1:] and make it as comment #label=label[1:]. If you are using Ubuntu you should comment it and if you are using a mac you should not comment it. If you find any more bug report me in rtfbuse@gmail.com# Tensorflow-image-classifier
+[errorno 29] Not a directory: 'Dataset_image/.DS_Store' Go to load_data.py file the find label=label[1:] and make it as comment #label=label[1:]. If you are using Ubuntu you should comment it and if you are using a mac you should not comment it. If you find any more bug report me in rtfbuse@gmail.com
