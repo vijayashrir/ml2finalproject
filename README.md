@@ -12,6 +12,10 @@ Keras:
 ```
 $ pip install keras 
 ```
+matplotlib:
+```
+$ pip install matplotlib
+```
 
 After you downalod the code unzip the file and create new 2 folders in the repository one is "dataset_image" and predicit.
 
