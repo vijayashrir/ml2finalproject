@@ -12,7 +12,7 @@ Keras:
 ```
 $ pip install keras 
 ```
-Matplotlib:
+matplotlib:
 ```
 $ pip install matplotlib
 ```
