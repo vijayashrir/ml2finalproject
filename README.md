@@ -24,7 +24,7 @@ open the folder which you have created "Dataset_image" then create a sub-folder 
 
 # Training
 
-Ones you prepared your dataset it is the time to train. Open terminal or command prompt in the folder the run the "file train.py" by * `$ pyhton train.py` 
+Ones you prepared your dataset it is the time to train. Open terminal or command prompt in the folder the run the "file train.py" by `$ pyhton train.py` 
 
 # Prediction
 
