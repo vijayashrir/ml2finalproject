@@ -1,6 +1,6 @@
 # Image Recognition
 
-I've build a python code that you build your own Image Classifier as a beginner and also train your images and to make predection.
+This python code will help you Image Classifier as a beginner and also train your images and to make predection. The code is prepared by Pranoy Radhakrishnan
 
 # Pre-requistes
 
