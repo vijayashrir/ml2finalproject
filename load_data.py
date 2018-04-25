@@ -4,6 +4,7 @@ from sklearn.model_selection import train_test_split
 from scipy import misc
 import numpy as np
 import os
+import matplotlib.pyplot as plt
 
 
 label = os.listdir("dataset_image")
@@ -16,7 +17,14 @@ for image_label in label:
     for image in images:
         img = misc.imread("dataset_image/"+image_label+"/"+image)
         img = misc.imresize(img, (64, 64))
-        dataset.append((img,image_label))
+        # plt.imshow(img)
+        # plt.show()
+        # print(img.shape)
+        img1 = img[:,:,0:3]
+        # print(img1.shape)
+        # plt.imshow(img1)
+        # plt.show()
+        dataset.append((img1,image_label))
 
 
 

@@ -7,6 +7,7 @@ from keras.layers import Dropout
 from keras.layers import Flatten
 from keras.constraints import maxnorm
 from keras.optimizers import SGD
+from keras.optimizers import Adam
 from keras.layers import Conv2D
 
 from keras.layers.convolutional import MaxPooling2D
