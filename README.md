@@ -2,7 +2,7 @@ Image classifier using python
 This python code helped me understand Image Classifier as a beginner and train images and make predictions. 
 This code is prepared by Pranoy Radhakrishnan.
 
-Keras doesn’t have STL10 inbuilt, hence I extracted the files manually using python code. Downsized the data from 80000 images to 40000 images as 10 classes, each class has 4000 images in it. 
+Keras doesn’t have STL10 inbuilt, hence I extracted the files manually using python code. Downsized the data from 8000 images to 4000 images as 10 classes. 
 
 Open the folder load_data.py and STL10 to extract and load the data.
 
